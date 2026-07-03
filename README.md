@@ -126,10 +126,10 @@ npx wrangler pages deploy . \
 
 | 平台 | 地址 |
 |------|------|
-| 🐙 **GitHub** | [github.com/hemin1003/snake-game](https://github.com/hemin1003/snake-game) |
-| 🌐 **GitHub Pages** | [heminit.com/snake-game](http://heminit.com/snake-game/) |
-| ▲ **Vercel** | [myclaudecode.vercel.app](https://myclaudecode.vercel.app) |
-| ⛅ **Cloudflare** | [snake-game-11f.pages.dev](https://snake-game-11f.pages.dev) |
+| 🐙 **GitHub仓库** | [github.com/hemin1003/snake-game](https://github.com/hemin1003/snake-game) |
+| 🌐 **试玩地址GitHub Pages** | [heminit.com/snake-game](http://heminit.com/snake-game/) |
+| ⛅ **试玩地址Cloudflare** | [snake-game-11f.pages.dev](https://snake-game-11f.pages.dev) |
+| ▲ **试玩地址Vercel** | [myclaudecode.vercel.app](https://myclaudecode.vercel.app) |
 | ⏱ **耗时** | 从发消息到三平台全部上线 ≈ 15 分钟 |
 
 ---
